@@ -1,0 +1,11 @@
+MySQL-python
+pymssql
+impacket
+requests
+pysnmp
+paramiko
+python-ldap
+pymongo
+psycopg2
+redis
+IPy
