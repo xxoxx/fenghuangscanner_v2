@@ -3,8 +3,8 @@ pymssql
 impacket
 requests
 pysnmp
-paramiko
 pycrypto
+paramiko
 python-ldap
 pymongo
 psycopg2
