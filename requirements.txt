@@ -4,6 +4,7 @@ impacket
 requests
 pysnmp
 paramiko
+pycrypto
 python-ldap
 pymongo
 psycopg2
