@@ -1,5 +1,5 @@
 # fenghuangscanner_v2
-fenghuangscanner.py --h
+fenghuangscanner.py -h
 
 usage: fenghuangscanner.py [-h] --ip IP [--f PATH] [--threads THREADS] [--P ISPING] [--p USER_PORTS]
 
